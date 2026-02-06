@@ -1,0 +1,7 @@
+{
+  "name": "EVA - Voice AI Assistant",
+  "description": "EVA is an elite real-time AI assistant for developers, created by Sourabh. Features voice conversation to debug and solve complex technical problems.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
